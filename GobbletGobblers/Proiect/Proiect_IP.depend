@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1578983688 source:d:\proiecte\proiect_ip\main.cpp
+	<iostream>
+	<graphics.h>
+	<windows.h>
+	<winbgim.h>
+	<stdlib.h>
+	<mmsystem.h>
+	<conio.h>
+
